@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+rag_env/
+rag_env_stable/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data and Index folders
+faiss_index_github/
+data_github/
