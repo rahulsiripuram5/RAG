@@ -26,12 +26,7 @@ The system was successfully able to answer specific questions about the GitHub i
 
 ---
 
-## Examples
 
-Q: What was the request regarding safe usage of 'git grep' in VS Code?
-A (True): A request was made to allow safe usage of 'git grep' in VS Code.
-A (Pred): Allow safe usage of 'git grep' in VS Code
-F1: 0.7826 | EM: 0
 
 ## How to Run
 1.  **Clone the repository:**
